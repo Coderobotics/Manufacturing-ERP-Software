@@ -5,7 +5,7 @@ Manufacturing Express provides you a flexible, easy to use, and robust solution 
 
 A completely integrated ERP and Manufacturing System to help you run your business better. Manufacturing Express Master Entries modules has options of capturing general details, marketing, sales, purchase, stores, production, accounts, payroll, common master entries, BOM and manage admin users etc. Marketing module is having provisions of BOM, transaction, dashboard and reports. Payroll module has employee management, leave, attendance, payslip, general reports etc. Accounts module has options of receipt, bill, payment, debit/credit notes, journal voucher, assets and reports such trial balance, bank register, cash book, bank guarantee statements, sales/ purchase register, cheque register and many more features of accounts related. Production module covers job card, job card protection, job inspection lists, material requisition, material return, demand note and machine breakdown history etc. Store module has options to inward, challan, GRR, Issue slip, service receipt note, stock adjustment, material return note, PPO Inward, PPO GRR and including various reports and dashboards.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2017/01/Inteligen-ERP_182.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738277848_b39fb26188a600c81faa.webp">
 
 <b>Manufacturing ERP Software has the following exciting features:</b>
 
@@ -19,5 +19,15 @@ A completely integrated ERP and Manufacturing System to help you run your busine
 <li>Payroll</li>
 <li>Accounting</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/manufacturing-erp/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-manufacturing-erp
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
